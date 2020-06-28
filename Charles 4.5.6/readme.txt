@@ -22,6 +22,7 @@ Windows: C:\Program Files\Charles\lib\charles.jar
 广告
 如果您有使用国外VPS的需求，不妨试试Vultr，我的推广链接 https://www.vultr.com/?ref=7772542-4F
 https://www.zzzmode.com/mytools/charles/
+https://github.com/MujurID/Charles-Crack/blob/master/src/main/resources/static/index.html
 
 
 <!DOCTYPE html>
