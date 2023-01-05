@@ -1,3 +1,13 @@
+https://github.com/soreatu/charles-keygen
+
+https://github.com/duraki/charles-keygen
+
+https://github.com/100apps/charles-hacking/issues/39
+
+https://github.com/8enet/Charles-Crack
+
+Charles Web Debugging Proxy HTTP Monitor / HTTP Proxy / HTTPS &amp; SSL Proxy / Reverse Proxy
+
 # Charles 破解工具web版
 
 [![Build Status](https://travis-ci.org/8enet/Charles-Crack.svg?branch=master)](https://travis-ci.org/8enet/Charles-Crack)
